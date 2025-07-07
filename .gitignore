@@ -18,19 +18,6 @@ Thumbs.db
 # --- VS CODE SETTINGS ---
 .vscode/
 
-# --- MODEL FILES ---
-*.pkl
-*.joblib
-*.h5
-
-# --- DATA FILES (Optional) ---
-*.csv
-*.xlsx
-*.json
-
-# You can comment out the line below if you DO want to keep the dataset on GitHub:
-# notebook/student_data.csv
-
 # --- LOGS ---
 *.log
 
