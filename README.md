@@ -36,19 +36,3 @@ Check out the deployed app here: [Student Performance Predictor](https://student
 - joblib
 
 ---
-
-## ⚙️ How to Run the App
-
-```bash
-# Step 1: Clone the repo
-git clone https://github.com/KanishkaShivhare20/Student_Performance_Predictor.git
-cd Student_Performance_Predictor
-
-# Step 2: Install dependencies
-pip install -r requirements.txt
-
-# Step 3: Run the Streamlit app
-streamlit run app/streamlit_app.py
-
-
-
