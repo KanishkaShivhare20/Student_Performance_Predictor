@@ -32,25 +32,6 @@ This app helps in predicting student performance using a trained ML model. It ta
 
 ---
 
-## 🗂️ Project Structure
-StudentPerformancePredictor/
-├── app/
-│ └── streamlit_app.py
-├── artifacts/
-│ ├── svc_model.pkl
-│ ├── preprocessor.pkl
-│ └── label_encoder.pkl
-├── notebook/
-│ ├── student_model_training.ipynb
-│ ├── student_performance_EDA.ipynb
-│ ├── student_data_training.csv
-│ └── student_data1.csv
-├── requirements.txt
-└── README.md
-
-
----
-
 ## ⚙️ How to Run the App
 
 ```bash
