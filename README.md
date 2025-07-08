@@ -13,6 +13,11 @@ This app helps in predicting student performance using a trained ML model. It ta
 
 ![Student Performance Predictor App](assets/streamlit_app_ss.png)
 
+## 🔗 Live Demo
+
+Check out the deployed app here: [Student Performance Predictor](https://student-performancepredictor.streamlit.app/)
+
+
 ## Features
 
 - Predicts academic grade using minimal input features
